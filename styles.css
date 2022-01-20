@@ -1,0 +1,18 @@
+.one {
+    text-align: center;
+    color: #6a5265;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+.two{
+    height: auto;
+    width: 200px;
+}
+
+.three {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #8ca4b6;
+}
